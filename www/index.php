@@ -24,64 +24,12 @@ ob_start();
  <!--Iconos redes sociales-->
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
    <!-- Enlace hoja estilos -->
-  <!-- <link rel="stylesheet" type="text/css" href="recursos/estilos.css">-->
+   <link rel="stylesheet" type="text/css" href="/recursos/style.css">
  <link href='https://fonts.googleapis.com/css?family=Ubuntu:500' rel='stylesheet' type='text/css'>
  <!--FAVICON-->
  <link rel="icon" href="recursos/favi.png" type="image/png" sizes="16x16">
 
- <!--css-->
- <STYLE TYPE='text/css'>
-/* CSS generated at csscreator.com */
 
-* {
-  box-sizing: border-box;
-}
-
-html, body{ 
- margin:0; 
- padding:0; 
- background-color:#D6EC8F; 
- } 
- 
-#pagewidth{ }
- 
-#maincol{
- background-color: #D6EC8F;  
- position: relative; 
- }
- 
-#footer{
- height:150px; 
-  background-color:#515760; 
- clear:both;
- display:block;
- overflow:auto;
-} 
- 
-
-
-.clearfix:after {
- content: "."; 
- display: block; 
-height: 0; 
- clear: both; 
- visibility: hidden;
- }
- 
-.clearfix{display: inline-block;}
-
-/* Hides from IE-mac \*/
-* html .clearfix{height: 1%;}
-.clearfix{display: block;}
-/* End hide from IE-mac */ 
-/*P{ font-family:sans-serif; background-color:#665744; }*/
-PRE{ font-family:sans-serif; background-color:#D6EC8F; }
-TABLE{background-color:#69C16F; }
-TR{background-color:#D6EC8F; color:black;}
-TD{color:;}
-HEADER {background-color:#515760;}
-SELECT{color:#81bda4; }
-</STYLE>
  </head>
  <body>
      <div class="paginaweb">
@@ -179,25 +127,6 @@ SELECT{color:#81bda4; }
     </header>
 
  <!--CONTENIDO DE LA PAGINA-->
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
-  <br/>
  <br/>
  <br/>
  <br/>
